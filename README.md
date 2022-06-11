@@ -6,5 +6,5 @@
 
 #### :hammer: Funcionalidades do projeto
 
-![screenshot](C:\Users\gusta\Documents\Engenharia De Software\3º Semestre\Estrutura de Dados em C\Exercicios\Struct_ficha_aluno\Capturar.PNG)
+![screenshot](Struct_ficha_aluno/Capturar.PNG)
 
